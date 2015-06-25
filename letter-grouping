@@ -1,0 +1,10 @@
+If you are starting to design Greek letters, it is good to avoid the alphabetic sequence. A good basic set to begin with is alpha / epsilon / eta / iota / mu / rho (α, ε, η, ι, μ, ρ) which give a structure to the main counters, and some form to instrokes and outstrokes. This sequence will also allow many typical test words, such as: 
+είμαι, αίμα, ηρεμία, άρμη, ρήμα, ημέρα, ερημιά.
+
+Try to group letters by their features. Here’s one grouping:
+αδορσυωφβθ  ες  ηιμ  γνχλ  ζξ  κ  πτ  ψ[φ long]
+
+Irene Vlachou proposed an alternative grouping:
+αηιμυ ψφ βδεθορσω  πτ  ζξς  γκλνχ
+
+Always start designing a typeface with the lower-case: (this is what people read, after all). The alpha, epsilon, eta, iota, mu, and rho are the optimum starting set.
